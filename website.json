@@ -1,0 +1,38 @@
+{
+	"title": "Additional Glowing",
+	"description_short": "Adds more glowing features",
+	"description": "Adds additional gameplay features to utilise the glowing effect and glowing items",
+	"youtube": null,
+	"icon": "mcpeachpies_additional_glowing/pack.png",
+	"list_on_site": true,
+	"features": [
+		{
+			"label": "Spectral Arrows will glow yellow when fired"
+		},
+		{
+			"label": "Piglins with Crossbows will always fire Spectral Arrows"
+		},
+		{
+			"label": "Climbing cave vines with berries growing will cause you to glow"
+		},
+		{
+			"label": "Consuming Glow berries will cause you to glow"
+		},
+		{
+			"label": "Coming in close contact with a glow squid will make the squid glow"
+		},
+		{
+			"label": "Compatible with Minecraft 1.18 and up, last tested on Minecraft 1.20"
+		}
+	],
+	"downloads": [
+		{
+			"label": "Download",
+			"file": "https://github.com/mcpeachpies/mcpeachpies-datapacks/releases/latest/download/mcpeachpies_additional_glowing.zip"
+		},
+		{
+			"label": "Source Code",
+			"file": "https://github.com/mcpeachpies/additional-glowing"
+		}
+	]
+}
